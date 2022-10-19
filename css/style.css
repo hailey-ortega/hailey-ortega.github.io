@@ -5,7 +5,7 @@
 h1
 {
     text-align: center;
-    color: var(--favcolor);
+    color: var(coral);
     background-color: rgb(225,0,0);
     font-size: 30pt;
 }
