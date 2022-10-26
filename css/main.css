@@ -1,29 +1,18 @@
-:root
+body
 {
-    --favcolor: rgb(125, 0, 0);
+  background-color: rgb(98,101,103);
+  border: rgb(236,240,241);
 }
 h1
 {
     text-align: center;
-    color: var(coral);
-    background-color: rgb(125,25,25);
+    color: var(white);
+    text-decoration: underline;
     font-size: 30pt;
-}
-section
-{
-    color: var(--favcolor);
-    float: right;
 }
 p
 {
     text-align: center;
     font-size: 12pt;
-}
-#mainpic
-{
-    border-radius: 50%;
-}
-div.button
-{
-    text-align: center;
+    text-color: rgb(74,35,90);
 }
