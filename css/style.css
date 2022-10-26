@@ -1,12 +1,9 @@
-:root
-{
-    --favcolor: rgb(125, 0, 0);
-}
+
 h1
 {
     text-align: center;
     color: var(coral);
-    background-color: rgb(225,0,0);
+    background-color: rgb(52,73,94);
     font-size: 30pt;
 }
 section
