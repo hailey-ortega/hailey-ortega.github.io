@@ -1,0 +1,45 @@
+<html>
+    <head>
+      <link rel="stylesheet" href="css/main.css">
+      <title>Page Title</title>
+  </head>
+  <body>
+    <h1>Super Search</h1>
+    <form action="https://www.google.com/search">
+      <div>
+      <label for="query">Site: </label>
+      <input type="text" id="query" name="as_q" placeholder="Enter your search query" size="100">
+      </div>
+      <div>
+      <label for="site">Site: </label>
+      <input type="text" id="site" name="as_sitesearch" placeholder="Enter the site you may wish to search" size="100">
+      </div>
+      <div>
+      <label for="images">Images Only</label>
+      <input type="checkbox" id="images" name="tbm" value="isch">
+      </div>
+      <div>
+      <label for="videos">Videos Only</label>
+      <input type="checkbox" id="videos" name="tbm" value="vid">
+      </div>
+      <div>
+      <label for="books">Book Find</label>
+      <input type="Radio Button" id="books" name="tbm" value="bks">
+      </div>
+       <div>
+         <p>Filetype:
+           <select name="as_filetype">
+               <option value=""></option>
+               <option value="pdf">Adobe PDF Document</options>
+               <option value="png">Uncompressed</options>
+               <option value="jpg">Compressed</options>
+           </select>
+         </p>
+       </div>
+       <div>
+           <input type="submit" value="SEARCH">
+      </div>
+    </form>
+  </body>
+  <p><a href="index.html"><img src="images/button_home.png" alt="Home button"></a></p>
+</html>
