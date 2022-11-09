@@ -7,25 +7,24 @@ h1
 {
     text-align: center;
     color: var(white);
-    text-decoration: underline;
-    font-size: 30pt;
+    font-size: 25pt;
 }
 h2
 {
-    text-align: center;
+    text-align: left-aligned;
     color: var(white);
     text-decoration: underline;
     font-size: 30pt;
 }
 p
 {
-    text-align: center;
+    text-align: left-aligned;
     font-size: 12pt;
     text-color: rgb(74,35,90);
 }
 section
 {
-    text-align: center;
+    text-align: left-alinged;
     font-size:12pt;
     text-color: rgb(240,243,244);
 }
