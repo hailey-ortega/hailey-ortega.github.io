@@ -16,6 +16,12 @@ h2
     color: var(white);
     font-size: 20pt;
 }
+h3
+{
+    text-align: left-alinged;
+    color: var(white);
+    font-size: 24pt;
+}
 p
 {
     text-align: left-aligned;
