@@ -1,1 +1,31 @@
-
+body
+{
+  background-color: rgb(98,101,103);
+  border: rgb(236,240,241);
+}
+h1
+{
+    text-align: center;
+    color: var(white);
+    text-decoration: underline;
+    font-size: 30pt;
+}
+h2
+{
+    text-align: center;
+    color: var(white);
+    text-decoration: underline;
+    font-size: 30pt;
+}
+p
+{
+    text-align: center;
+    font-size: 12pt;
+    text-color: rgb(74,35,90);
+}
+section
+{
+    text-align: center;
+    font-size:12pt;
+    text-color: rgb(240,243,244);
+}
