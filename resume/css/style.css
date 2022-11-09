@@ -8,6 +8,7 @@ h1
     text-align: center;
     color: var(white);
     text-decoration: underlinded;
+    text-color; rgb(100,30,22);
     font-size: 30pt;
 }
 h2
@@ -33,4 +34,14 @@ section
     text-align: left-alinged;
     font-size:12pt;
     text-color: rgb(241,196,15);
+}
+nav
+{
+    text-align: left-aligned;
+    font-size: 14pt;
+    text-color: rgb(241,196,15);
+}
+date
+{
+    text-color: rgb(205,97,85);
 }
