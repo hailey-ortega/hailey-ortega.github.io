@@ -6,10 +6,11 @@ h2
     background-color: rgb(189, 138, 104);
     font-size: 30pt;
 }
-section
+title
 {
-    color: var(--favcolor);
-    float: right;
+    color: var(rgb(180, 140, 120));
+    text-align: center;
+    font-size: 30pt;
 }
 h5
 {
@@ -22,4 +23,10 @@ p style
     font-size: medium;
     text-align: left-align;
     color: var(rgb(238, 178, 156));
+}
+img
+{
+    border-radius: 20%;
+    border-color:bisque;
+
 }
